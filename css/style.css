@@ -252,6 +252,7 @@ footer{
 }
 
 footer h2{
+	border: 1px solid black;
 	text-align: center;
 	font-family: pacifico;
 }
